@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Shiva krishna sangati</h1>
+<h1 align="left" color:"dodgerblue">Hi 👋, I'm Shiva krishna sangati</h1>
 <h3 align="center">A passionate Full stack developer from India.</h3>
 
 
-- 🔭 I’m currently working on **Full stack**
+- 🔭 I’m currently working on **Video Conferencign Application**
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **Data structures and algorithms**
 
-- 🤝 I’m looking for help with **contributers who are intrested in Full Stack**
+- 🤝 I’m looking for help with **contributers who are intrested in learning new technologies and contribute tot the project growth.**
 
-- 💬 Ask me about **react ,node**
+- 💬 Ask me about **React, Node, WebRTC, socket.io **
 
 - 📫 How to reach me **shivakrishna9752@gmail.com**
 
