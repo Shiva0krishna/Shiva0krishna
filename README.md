@@ -2,7 +2,7 @@
 <h3 align="left" style= "color:"dodgerblue">A passionate Full stack developer from India.</h3>
 
 
-- 🔭 I’m currently working on **Video Conferencign Application**
+- 🔭 I’m currently working on **Project wellness**
 
 - 🌱 I’m currently learning **Data structures and algorithms**
 
