@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **contributers who are intrested in learning new technologies and contribute to the project growth.**
 
-- 💬 Ask me about **React, Node, WebRTC, socket.io **
+- 💬 Ask me about **Software engineering **
 
 - 📫 How to reach me **shivakrishna9752@gmail.com**
 
